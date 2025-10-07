@@ -1,0 +1,5 @@
+{
+  "name": "Visual Studio Code (Web Edition)",
+  "description": "A lightweight, modular, and extensible code editor for developers to write, debug, and manage code efficiently — supporting multiple languages, extensions, version control, and AI assistance — all in a single unified workspace.",
+  "requestFramePermissions": []
+}
